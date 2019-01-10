@@ -3,7 +3,7 @@ html,body
     min-width: 290px;
     color: #4d4e53;
     background-color: #ffff;
-    font-family: 'Open Sans',Arial,sans-serif;
+    font-family: 'Helvetica',Arial,sans-serif;
     line-height: 1.5;
 }
 nav
@@ -42,4 +42,32 @@ nav li
    left:-50px;
     width:100%;
 
+}
+nav li a
+{
+    text-decoration: none;
+    color: rgb(80, 100, 100);
+}
+.mainSection
+{
+    margin-left: 310px;
+
+}
+.mainSection header
+{
+    margin: 0px;
+    text-align:left;
+    padding: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 3em;
+    color: black;;
+}
+.mainSection 
+{
+    line-height: 1.7;
+}
+.mainSection span
+{
+    font-weight: 901;
 }
